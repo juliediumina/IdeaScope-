@@ -3,6 +3,7 @@
 🚀 **IdeaScope AI** is a machine learning tool designed to evaluate early-stage startup ideas using structured scoring and interpretable, tree-based models like XGBoost and Random Forest.
 
 This project uses synthetic data **generated with generative AI** to mimic real-world startup features — making it both realistic and reproducible. Development and testing are done in **Google Colab**
+
 ---
 
 ## 🧠 Why IdeaScope?
